@@ -224,13 +224,13 @@ const styles = StyleSheet.create({
   titlePart1: {
     fontFamily: 'NewAmsterdam-Regular',
     fontSize: 120,
-    color: '#3C3D37',
+    color: '#1E201E',
   },
   titlePart2: {
     fontFamily: 'Roboto-Thin',
     fontSize: 25,
     paddingLeft: 5,
-    color: '#3C3D37',
+    color: '#1E201E',
   },
   flatListContainer: {
     width: '100%',
